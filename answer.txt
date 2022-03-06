@@ -1,7 +1,0 @@
-Mean / Average is: 67.99311359679979
-
-
-Median is: 67.9957
-
-
-Mode is -> 65.000000
